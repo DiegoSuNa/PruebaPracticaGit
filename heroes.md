@@ -8,3 +8,5 @@
 * Miss Marvel
 * El tordo raro 
 * Wolverine
+* Volvio dedpool
+* Miguel Moly
