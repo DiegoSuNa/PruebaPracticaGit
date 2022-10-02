@@ -12,3 +12,5 @@
 * Miguel Moly
 * Baila Morena
 * Aquaman
+* Johan Sebastian
+* Batman
