@@ -9,3 +9,8 @@ Este repositorio es de pruebas
 ## Motivo
 
 * Ahora falta personal
+
+
+##Git Hub 
+
+Cambios Realizados dentro del git
