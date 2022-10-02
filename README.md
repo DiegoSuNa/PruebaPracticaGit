@@ -10,7 +10,3 @@ Este repositorio es de pruebas
 
 * Ahora falta personal
 
-
-##Git Hub 
-
-Cambios Realizados dentro del git
